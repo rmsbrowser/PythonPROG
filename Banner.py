@@ -2,6 +2,7 @@ import os
 import time 
   
 #You can change the width of the display according to your wish. 
+# teste de alteração do código , apenas essa linha
 WIDTH = 250
   
 # Written below currently is GeeksForGeeks. If you wish to get more 
