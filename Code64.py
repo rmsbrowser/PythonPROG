@@ -1,4 +1,7 @@
 
+# uuencode e decode 64
+# Ramsés Caldas
+
 import base64
 tocode=input("Entre com a String para Codificar...:")
 tocode=tocode.encode() #Converte de String para Byte
@@ -11,5 +14,7 @@ todecode=todecode.encode() # Converte de String para Byte
 decoded= base64.b64decode(todecode)
 print("Valor decodificado........:")
 print(decoded)
+
+
 
 
